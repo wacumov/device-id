@@ -1,0 +1,15 @@
+{
+  "originHash" : "5c84705f097d41b1812b227b0b9cdb8722ad5f6a2ee696da1f018e101d1d0262",
+  "pins" : [
+    {
+      "identity" : "device-id",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wacumov/device-id",
+      "state" : {
+        "revision" : "613e3043d52091a5ea8bef7fd59fd3a773dcd3cf",
+        "version" : "0.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
